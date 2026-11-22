@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Stanislav 👋
 
-<!--
-**wannabeanything/wannabeanything** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ developer focused on backend and high-performance systems.
+Final-year CS student (DSTU, graduating 2027), looking for C++ roles
+in fintech / high-load, open to relocation and remote.
 
-Here are some ideas to get you started:
+## Selected work
+- **Thesis: INT8 neural network inference with CUDA**: custom C++ inference engine with hand-written CUDA kernels, benchmarked against PyTorch and CPU baselines.
+- **[aromaworkshop.ru](https://aromaworkshop.ru)**: production online store; I built the C++ backend with PostgreSQL (private repo).
+- **Order Book Service**: team project (6 devs), multithreaded C++20 market-depth service. My part: data interface, client registry, command queue.
+- **Search Server**, **Transport Catalogue**: standalone C++17 projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+C++11/17/20 · STL · Boost · CMake · Conan · Catch2 · PostgreSQL · Docker · Git · CUDA (learning)
+
+## Contact
+📩 stas05728@gmail.com · [LinkedIn](https://www.linkedin.com/in/stanislav-pavlovich-bbb09a404/) · [Telegram](https://t.me/wannabeanything)
