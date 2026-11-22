@@ -11,7 +11,7 @@ in fintech / high-load, open to relocation and remote.
 - You can check the rest of them in pinned repositories
 
 ## Stack
-C++11/17/20 · STL · Boost · CMake · Conan · Catch2 · PostgreSQL · Docker · Git · CUDA (learning)
+C++ · STL · Boost · CMake · Conan · Catch2 · PostgreSQL · Docker · Git · CUDA
 
 ## Contact
-📩 stas05728@gmail.com · [LinkedIn](https://www.linkedin.com/in/stanislav-pavlovich-bbb09a404/) · [Telegram](https://t.me/wannabeanything)
+stas05728@gmail.com · [LinkedIn](https://www.linkedin.com/in/stanislav-pavlovich-bbb09a404/) · [Telegram](https://t.me/wannabeanything)
