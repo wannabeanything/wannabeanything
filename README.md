@@ -6,7 +6,7 @@ in fintech / high-load, open to relocation and remote.
 
 ## Projects
 - **[aromaworkshop.ru](https://aromaworkshop.ru)**: production online store; I built the C++ backend with PostgreSQL (private repo).
-- **Order Book Service**: team project (6 devs), multithreaded C++20 market-depth service. My part: data interface, client registry, command queue.
+- **Order Book Service**: team project (6 devs), multithreaded C++20 market-depth service. My part: data interface, client registry, command queue: [Stakan](https://github.com/MasterskayaC/Stakan).
 - **Multiplayer Game Server**: multithreaded C++20 HTTP game server (Boost.Asio/Beast) with state serialization and a PostgreSQL leaderboard: [cpp-multiplayer-game-server](https://github.com/wannabeanything/cpp-multiplayer-game-server).
 - You can check the rest of them in pinned repositories
 
