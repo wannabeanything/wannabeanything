@@ -7,8 +7,11 @@ in fintech / high-load, open to relocation and remote.
 ## Projects
 - **[aromaworkshop.ru](https://aromaworkshop.ru)**: production online store; I built the C++ backend with PostgreSQL (private repo).
 - **Order Book Service**: team project (6 devs), multithreaded C++20 market-depth service. My part: data interface, client registry, command queue.
-- **Thesis: INT8 neural network inference with CUDA**: custom C++ inference engine with hand-written CUDA kernels, benchmarked against PyTorch and CPU baselines.
+- **Multiplayer Game Server**: multithreaded C++20 HTTP game server (Boost.Asio/Beast) with state serialization and a PostgreSQL leaderboard: [cpp-multiplayer-game-server](https://github.com/wannabeanything/cpp-multiplayer-game-server).
 - You can check the rest of them in pinned repositories
+
+## Currently working on
+**Thesis (in progress, expected August 2027): INT8 neural network inference with CUDA.** Implementing and optimizing quantized inference in C++ with custom CUDA kernels, to be benchmarked against a CPU baseline and PyTorch. The research part is under way; the code is not published yet.
 
 ## Stack
 C++ · STL · Boost · CMake · Conan · Catch2 · PostgreSQL · Docker · Git · CUDA
